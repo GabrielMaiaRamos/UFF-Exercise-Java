@@ -1,11 +1,11 @@
 import java.util.Scanner;
 
-public class ex01 {
+public class ex01_L1 {
     public static void main(String[] args) {
         Scanner kb = new Scanner(System.in);
-        System.out.print("Type your name: ");
+        System.out.print("Digite seu nome: ");
         String nome = kb.nextLine();
-        System.out.println("Hello " + nome + "! Welcome to Java!");
+        System.out.println("Ola " + nome + "! Bem vindo ao Java!");
         kb.close();
     }
 }

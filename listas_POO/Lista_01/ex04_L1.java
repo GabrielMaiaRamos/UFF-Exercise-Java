@@ -1,10 +1,10 @@
 import java.util.Scanner;
 
-public class ex04 {
+public class ex04_L1 {
     public static void main(String[] args) {
         int cents, vN;
         Scanner kb = new Scanner(System.in);
-        System.out.print("Type a value in cents: ");
+        System.out.print("Digite o valor em centavos: ");
         cents = kb.nextInt();
 
         if (cents >= 100) {
