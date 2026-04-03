@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ex03_l2 {
+public class ex03_L2 {
     public static void main(String[] args) {
         int seg, min, hr;
         Scanner kb = new Scanner(System.in);
