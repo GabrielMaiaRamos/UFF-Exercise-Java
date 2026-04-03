@@ -31,4 +31,5 @@ public class ex05_L2 {
         } else
             System.out.print("Nao eh triangulo!");
     }
+    
 }
