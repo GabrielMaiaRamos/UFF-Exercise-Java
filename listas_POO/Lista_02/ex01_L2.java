@@ -7,6 +7,7 @@ public class ex01_L2 {
         int a, b;
         System.out.printf("Escreva A e B: ");
         Scanner kb = new Scanner(System.in);
+
         a = kb.nextInt();
         b = kb.nextInt();
 
