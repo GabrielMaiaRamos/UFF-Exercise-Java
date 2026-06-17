@@ -7,7 +7,7 @@ public class MainConta {
         minhaConta.depositar(50.0);
         System.out.println("Saldo atual: R$ " + minhaConta.obterSaldo());
 
-        // Tentando um saque válido (R$ 40,00 + R$ 1,50 = R$ 41,50)
+        // Tentando um saque válido
         minhaConta.sacar(40.0);
         System.out.println("Saldo após saque: R$ " + minhaConta.obterSaldo());
 
