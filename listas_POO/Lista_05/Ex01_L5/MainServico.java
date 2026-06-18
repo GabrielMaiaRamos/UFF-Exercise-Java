@@ -1,4 +1,4 @@
-public class Main {
+public class MainServico {
     public static void main(String[] args) {
 
         // Criando objetos Produto (instâncias da classe Produto)

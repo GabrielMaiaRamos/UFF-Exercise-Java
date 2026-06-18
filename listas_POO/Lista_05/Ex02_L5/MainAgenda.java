@@ -1,4 +1,4 @@
-public class Main {
+public class MainAgenda {
     public static void main(String[] args) {
         Agenda minhaAgenda = new Agenda();
 

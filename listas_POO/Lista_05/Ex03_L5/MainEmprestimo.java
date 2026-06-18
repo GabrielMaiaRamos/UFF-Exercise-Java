@@ -1,4 +1,4 @@
-public class Main {
+public class MainEmprestimo {
     public static void main(String[] args) {
         // Instanciando as entidades
         Pessoa leitor = new Pessoa("João");
