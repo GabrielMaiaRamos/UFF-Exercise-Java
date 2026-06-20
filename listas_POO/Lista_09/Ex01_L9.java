@@ -1,6 +1,5 @@
 import java.util.List;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.Scanner;
 
@@ -19,7 +18,8 @@ public class Ex01_L9 {
             listaPalavras.add(palavra);
         }
         // ou pode converter com apenas essa funcao:
-        // List<String> listaPalavras = Arrays.asList(vetPalavras);
+        // List<String> listaPalavras = Arrays.asList(vetPalavras); (mas ai tem que
+        // importar java.util.arrays)
 
         Collections.reverse(listaPalavras); // usa Colections para inverter a ordem da lista
 
