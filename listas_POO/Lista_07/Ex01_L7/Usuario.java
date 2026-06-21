@@ -1,4 +1,4 @@
-public class Usuario {
+public abstract class Usuario {
     // Encapsulamento: protegendo os dados básicos
     protected String nome;
     protected String senha;
